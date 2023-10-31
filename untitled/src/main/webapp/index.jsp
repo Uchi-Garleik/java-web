@@ -5,7 +5,7 @@
 <h1>Comunicación entre JSP y Servlet</h1>
 
 <form action="MyServlet" method="get">
-    <input type="submit" value="Llamar al Servlet">
+    <input type="submsit" value="Llamar al Servlet">
 </form>
 
 
